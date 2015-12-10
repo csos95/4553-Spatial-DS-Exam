@@ -1,3 +1,8 @@
+"""
+@author - Christopher Silva
+@date -  12/10/2015
+@description - 4553 Final Exam
+"""
 import random
 
 class TreeNode:
